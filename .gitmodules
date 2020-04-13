@@ -1,9 +1,9 @@
 [submodule "1082 - Algorithms (2347)"]
 	path = 1082 - Algorithms (2347)
 	url = https://github.com/tomy0000000/NCHU-Algorithms.git
-[submodule "1082 - Assenbly Language and System Programming (2351)"]
-	path = 1082 - Assenbly Language and System Programming (2351)
-	url = https://github.com/tomy0000000/NCHU-Assenbly-Language-and-System-Programming.git
+[submodule "1082 - Assembly Language and System Programming (2351)"]
+	path = 1082 - Assembly Language and System Programming (2351)
+	url = https://github.com/tomy0000000/NCHU-Assembly-Language-and-System-Programming.git
 [submodule "1082 - File Processing and I:O Systems"]
 	path = 1082 - File Processing and I:O Systems
 	url = https://github.com/tomy0000000/NCHU-File-Processing-and-IO-Systems.git
