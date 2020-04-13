@@ -7,3 +7,15 @@
 [submodule "1082 - Analysis and Application of Big Data"]
 	path = 1082 - Analysis and Application of Big Data
 	url = https://github.com/tomy0000000/NCHU-Analysis-and-Application-of-Big-Data.git
+[submodule "1082 - Assembly Language and System Programming (2351)"]
+	path = 1082 - Assembly Language and System Programming (2351)
+	url = https://github.com/tomy0000000/NCHU-Assembly-Language-and-System-Programming.git
+[submodule "1082 - Analysis and Application of Big Data (3195)"]
+	path = 1082 - Analysis and Application of Big Data (3195)
+	url = https://github.com/tomy0000000/NCHU-Analysis-and-Application-of-Big-Data.git
+[submodule "1082 - File Processing and I/O Systems (3110)"]
+	path = 1082 - File Processing and I/O Systems (3110)
+	url = https://github.com/tomy0000000/NCHU-File-Processing-and-IO-Systems.git
+[submodule "1082 - File Processing and I:O Systems (3110)"]
+	path = 1082 - File Processing and I:O Systems (3110)
+	url = https://github.com/tomy0000000/NCHU-File-Processing-and-IO-Systems.git
