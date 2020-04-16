@@ -19,3 +19,6 @@
 [submodule "1082 - File Processing and I:O Systems (3110)"]
 	path = 1082 - File Processing and I:O Systems (3110)
 	url = https://github.com/tomy0000000/NCHU-File-Processing-and-IO-Systems.git
+[submodule "1081 - Introduction to Data Compression (3341)"]
+	path = 1081 - Introduction to Data Compression (3341)
+	url = https://github.com/tomy0000000/NCHU-Introduction-to-Data-Compression.git
