@@ -1,24 +1,18 @@
+[submodule "1081 - Introduction to Data Compression (3341)"]
+	path = 1081 - Introduction to Data Compression (3341)
+	url = https://github.com/tomy0000000/NCHU-Introduction-to-Data-Compression.git
+[submodule "1081 - Introduction to Reinforcement Learning (4231)"]
+	path = 1081 - Introduction to Reinforcement Learning (4231)
+	url = https://github.com/tomy0000000/NCHU-Introduction-to-Reinforcement-Learning.git
 [submodule "1082 - Algorithms (2347)"]
 	path = 1082 - Algorithms (2347)
 	url = https://github.com/tomy0000000/NCHU-Algorithms.git
-[submodule "1082 - File Processing and I:O Systems"]
-	path = 1082 - File Processing and I:O Systems
-	url = https://github.com/tomy0000000/NCHU-File-Processing-and-IO-Systems.git
-[submodule "1082 - Analysis and Application of Big Data"]
-	path = 1082 - Analysis and Application of Big Data
+[submodule "1082 - Analysis and Application of Big Data (3195)"]
+	path = 1082 - Analysis and Application of Big Data (3195)
 	url = https://github.com/tomy0000000/NCHU-Analysis-and-Application-of-Big-Data.git
 [submodule "1082 - Assembly Language and System Programming (2351)"]
 	path = 1082 - Assembly Language and System Programming (2351)
 	url = https://github.com/tomy0000000/NCHU-Assembly-Language-and-System-Programming.git
-[submodule "1082 - Analysis and Application of Big Data (3195)"]
-	path = 1082 - Analysis and Application of Big Data (3195)
-	url = https://github.com/tomy0000000/NCHU-Analysis-and-Application-of-Big-Data.git
-[submodule "1082 - File Processing and I/O Systems (3110)"]
-	path = 1082 - File Processing and I/O Systems (3110)
-	url = https://github.com/tomy0000000/NCHU-File-Processing-and-IO-Systems.git
 [submodule "1082 - File Processing and I:O Systems (3110)"]
 	path = 1082 - File Processing and I:O Systems (3110)
 	url = https://github.com/tomy0000000/NCHU-File-Processing-and-IO-Systems.git
-[submodule "1081 - Introduction to Data Compression (3341)"]
-	path = 1081 - Introduction to Data Compression (3341)
-	url = https://github.com/tomy0000000/NCHU-Introduction-to-Data-Compression.git
