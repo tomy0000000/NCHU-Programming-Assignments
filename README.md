@@ -13,4 +13,5 @@ This repo collects my programming assignments I've done in Chung Hsing Universit
 | 1082     | 2351         | 組合語言與系統程式<br/>Assembly Language and System Programming | 郭姝妤<br />Shu-Yu, Kuo      |
 | 1082     | 3110         | 檔案處理與輸出入系統<br/>File Processing and I/O Systems     | 張軒彬<br />Hsung-Pin, Chang |
 | 1082     | 3195         | 大數據分析與應用<br/>Analysis and Application of Big Data    | 蔡孟勳<br />Meng-Hsiun, Tsai |
+| 1082     | 3360         | 資料庫管理系統導論<br/>Introduction to Database Management System | 賈坤芳<br />Kuen-Fang, Jea   |
 

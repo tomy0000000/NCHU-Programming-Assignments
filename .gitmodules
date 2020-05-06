@@ -19,3 +19,6 @@
 [submodule "1081 - Introduction to Information Retrieval (4228)"]
 	path = 1081 - Introduction to Information Retrieval (4228)
 	url = https://github.com/tomy0000000/NCHU-Introduction-to-Information-Retrieval.git
+[submodule "1082 - Introduction to Database Management System (3360)"]
+	path = 1082 - Introduction to Database Management System (3360)
+	url = https://github.com/tomy0000000/NCHU-Introduction-to-Database-Management-System.git
