@@ -22,3 +22,12 @@
 [submodule "1082 - Introduction to Database Management System (3360)"]
 	path = 1082 - Introduction to Database Management System (3360)
 	url = https://github.com/tomy0000000/NCHU-Introduction-to-Database-Management-System.git
+[submodule "1091 - Probability (1234)"]
+	path = 1091 - Probability (1234)
+	url = https://github.com/tomy0000000/NCHU-Probability
+[submodule "1091 - Operating Systems (3171)"]
+	path = 1091 - Operating Systems (3171)
+	url = https://github.com/tomy0000000/NCHU-Operating-Systems
+[submodule "1091 - Introduction to Network Security (3313)"]
+	path = 1091 - Introduction to Network Security (3313)
+	url = https://github.com/tomy0000000/NCHU-Introduction-to-Network-Security

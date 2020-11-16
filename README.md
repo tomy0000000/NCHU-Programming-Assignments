@@ -13,4 +13,7 @@ This repo collects my programming assignments I've done in Chung Hsing Universit
 | 1082     | 3110         | 檔案處理與輸出入系統<br/>File Processing and I/O Systems     | 張軒彬<br />Hsung-Pin, Chang |
 | 1082     | 3195         | 大數據分析與應用<br/>Analysis and Application of Big Data    | 蔡孟勳<br />Meng-Hsiun, Tsai |
 | 1082     | 3360         | 資料庫管理系統導論<br/>Introduction to Database Management System | 賈坤芳<br />Kuen-Fang, Jea   |
+| 1091     | 1234         | 機率<br />Probability                                        | 吳俊霖<br />Jiunn-Lin, Wu    |
+| 1091     | 3171         | 作業系統<br />Operating Systems                              | 張軒彬<br />Hsung-Pin, Chang |
+| 1091     | 3313         | 網路安全導論<br />Introduction to Network Security           | 郭姝妤<br />Shu-Yu, Kuo      |
 
