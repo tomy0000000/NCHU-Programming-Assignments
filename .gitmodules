@@ -31,3 +31,9 @@
 [submodule "1091 - Introduction to Network Security (3313)"]
 	path = 1091 - Introduction to Network Security (3313)
 	url = https://github.com/tomy0000000/NCHU-Introduction-to-Network-Security
+[submodule "1092 - Introduction to Color Science and Applications (3132)"]
+	path = 1092 - Introduction to Color Science and Applications (3132)
+	url = https://tomy0000000@github.com/tomy0000000/NCHU-Introduction-to-Color-Science-and-Applications
+[submodule "1092 - Artificial Intelligent Internet of Things Application and Implementation (3311)"]
+	path = 1092 - Artificial Intelligent Internet of Things Application and Implementation (3311)
+	url = https://tomy0000000@github.com/tomy0000000/NCHU-Artificial-Intelligent-Internet-of-Things-Application-and-Implementation
