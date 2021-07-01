@@ -16,4 +16,6 @@ This repo collects my programming assignments I've done in Chung Hsing Universit
 | 1091     | 1234         | 機率<br />Probability                                        | 吳俊霖<br />Jiunn-Lin, Wu    |
 | 1091     | 3171         | 作業系統<br />Operating Systems                              | 張軒彬<br />Hsung-Pin, Chang |
 | 1091     | 3313         | 網路安全導論<br />Introduction to Network Security           | 郭姝妤<br />Shu-Yu, Kuo      |
+| 1092     | 3132         | 色彩科學導論與應用<br/>Introduction to Color Science and Applications | 王宗銘<br />Chung-Ming, Wang |
+| 1092     | 3311         | 智慧物聯網應用與實作<br/>Artificial Intelligent Internet of Things (AIoT) Application and Implementation | 陳煥<br />Huan, Chen         |
 
